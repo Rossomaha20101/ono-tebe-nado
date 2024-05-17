@@ -48,9 +48,6 @@ body {
   list-style: circle;
 }
 
-.header__links-list-item {
-}
-
 .header__links-list-item_no-bullit {
   list-style: none;
 }
@@ -339,9 +336,6 @@ body {
   list-style: none;
 }
 
-.footer__menu-list-item {
-}
-
 .footer__menu-link {
   color: #000;
   font-size: 18px;
@@ -360,14 +354,8 @@ body {
   list-style: none;
 }
 
-.footer__social-list-item {
-}
-
 .footer__social-link {
   display: block;
   width: 48px;
   height: 48px;
-}
-
-.footer__social-icon {
 }
