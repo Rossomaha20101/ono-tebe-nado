@@ -7,7 +7,7 @@ body {
   background: #fff;
 }
 
-/** repeat components **/
+/* repeat components */
 .address {
   display: flex;
   flex-direction: column;
