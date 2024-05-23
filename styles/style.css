@@ -138,33 +138,7 @@ body {
 .cover__description-text {
   color: #fff;
   text-transform: uppercase;
-}
-
-.cover__description-text-v {
-  font-family: Raleway;
-  font-weight: 400;
-  font-size: 22px;
-  line-height: 28px;
-  text-align: left;
-  word-spacing: 1.1em;
-}
-
-.cover__description-text-after {
-  font-family: Raleway;
-  font-weight: 400;
-  font-size: 22px;
-  line-height: 28px;
-  text-align: left;
-  word-spacing: 0.8em;
-}
-
-.cover__description-text-before {
-  font-family: Raleway;
-  font-weight: 400;
-  font-size: 22px;
-  line-height: 28px;
-  text-align: left;
-  word-spacing: 0.84em;
+  word-spacing: 0.82em;
 }
 
 .bet-button {
